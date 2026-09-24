@@ -2,7 +2,7 @@
 
 Bem-vindo(a) ao meu portfólio profissional! Este projeto foi desenvolvido para apresentar as minhas habilidades, projetos práticos e contactos na área de Desenvolvimento Front-End e Tecnologia da Informação.
 
-🚀 **Acesse o projeto online: https://portfolio-luana-ashy.vercel.app/
+🚀 **Acesse o projeto online:** https://portfolio-luana-ashy.vercel.app/
 
 ---
 
@@ -30,4 +30,4 @@ Bem-vindo(a) ao meu portfólio profissional! Este projeto foi desenvolvido para 
 ## 📬 Contacto
 
 - **E-mail:** [luananreis21@gmail.com](mailto:luananreis21@gmail.com)
-- **GitHub:** [github.com/luanareis27](https://github.com/luanareis27)
+
