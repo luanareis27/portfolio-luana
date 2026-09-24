@@ -430,3 +430,15 @@ body {
     display: none;
   }
 }
+.contact-links {
+    flex-direction: column !important;
+    width: 100% !important;
+    align-items: center !important;
+}
+
+.contact-links a {
+    width: 100% !important;
+    max-width: 280px !important;
+    box-sizing: border-box !important;
+    word-break: break-all !important;
+}
